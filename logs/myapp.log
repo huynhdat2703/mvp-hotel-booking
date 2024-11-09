@@ -1,0 +1,1054 @@
+2024-11-09 22:28:00 - Starting MvpHotelBookingApplication using Java 11.0.22 on JAGGER-PC with PID 11756 (D:\Work\Project\gosell\mvp-hotel-booking\target\classes started by PC in D:\Work\Project\gosell\mvp-hotel-booking)
+2024-11-09 22:28:00 - Starting MvpHotelBookingApplication using Java 11.0.22 on JAGGER-PC with PID 11756 (D:\Work\Project\gosell\mvp-hotel-booking\target\classes started by PC in D:\Work\Project\gosell\mvp-hotel-booking)
+2024-11-09 22:28:00 - Running with Spring Boot v2.7.13, Spring v5.3.28
+2024-11-09 22:28:00 - Running with Spring Boot v2.7.13, Spring v5.3.28
+2024-11-09 22:28:00 - No active profile set, falling back to 1 default profile: "default"
+2024-11-09 22:28:00 - No active profile set, falling back to 1 default profile: "default"
+2024-11-09 22:28:01 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-09 22:28:01 - Finished Spring Data repository scanning in 29 ms. Found 2 JPA repository interfaces.
+2024-11-09 22:28:01 - Tomcat initialized with port(s): 8080 (http)
+2024-11-09 22:28:01 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-09 22:28:01 - Starting service [Tomcat]
+2024-11-09 22:28:01 - Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-11-09 22:28:01 - Initializing Spring embedded WebApplicationContext
+2024-11-09 22:28:01 - Root WebApplicationContext: initialization completed in 1043 ms
+2024-11-09 22:28:02 - HikariPool-1 - Starting...
+2024-11-09 22:28:02 - HikariPool-1 - Start completed.
+2024-11-09 22:28:02 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-09 22:28:02 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2024-11-09 22:28:02 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-11-09 22:28:02 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2024-11-09 22:28:02 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-11-09 22:28:02 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-09 22:28:03 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-09 22:28:03 - Exposing 2 endpoint(s) beneath base path '/actuator'
+2024-11-09 22:28:03 - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-09 22:28:03 - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-09 22:28:03 - Started MvpHotelBookingApplication in 2.806 seconds (JVM running for 3.1)
+2024-11-09 22:28:03 - Started MvpHotelBookingApplication in 2.806 seconds (JVM running for 3.1)
+2024-11-09 22:32:26 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-09 22:32:26 - HikariPool-1 - Shutdown initiated...
+2024-11-09 22:32:26 - HikariPool-1 - Shutdown completed.
+2024-11-09 22:32:58 - Starting MvpHotelBookingApplication using Java 11.0.22 on JAGGER-PC with PID 9444 (D:\Work\Project\gosell\mvp-hotel-booking\target\classes started by PC in D:\Work\Project\gosell\mvp-hotel-booking)
+2024-11-09 22:32:58 - Starting MvpHotelBookingApplication using Java 11.0.22 on JAGGER-PC with PID 9444 (D:\Work\Project\gosell\mvp-hotel-booking\target\classes started by PC in D:\Work\Project\gosell\mvp-hotel-booking)
+2024-11-09 22:32:58 - Running with Spring Boot v2.7.13, Spring v5.3.28
+2024-11-09 22:32:58 - Running with Spring Boot v2.7.13, Spring v5.3.28
+2024-11-09 22:32:58 - No active profile set, falling back to 1 default profile: "default"
+2024-11-09 22:32:58 - No active profile set, falling back to 1 default profile: "default"
+2024-11-09 22:32:59 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-09 22:32:59 - Finished Spring Data repository scanning in 25 ms. Found 2 JPA repository interfaces.
+2024-11-09 22:32:59 - Tomcat initialized with port(s): 8080 (http)
+2024-11-09 22:32:59 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-09 22:32:59 - Starting service [Tomcat]
+2024-11-09 22:32:59 - Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-11-09 22:32:59 - Initializing Spring embedded WebApplicationContext
+2024-11-09 22:32:59 - Root WebApplicationContext: initialization completed in 953 ms
+2024-11-09 22:33:00 - HikariPool-1 - Starting...
+2024-11-09 22:33:00 - HikariPool-1 - Start completed.
+2024-11-09 22:33:00 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-09 22:33:00 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2024-11-09 22:33:00 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-11-09 22:33:00 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2024-11-09 22:33:00 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-11-09 22:33:00 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-09 22:33:01 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-09 22:33:01 - Exposing 2 endpoint(s) beneath base path '/actuator'
+2024-11-09 22:33:01 - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-09 22:33:01 - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-09 22:33:01 - Started MvpHotelBookingApplication in 2.645 seconds (JVM running for 2.919)
+2024-11-09 22:33:01 - Started MvpHotelBookingApplication in 2.645 seconds (JVM running for 2.919)
+2024-11-09 22:33:26 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-09 22:33:26 - Initializing Servlet 'dispatcherServlet'
+2024-11-09 22:33:26 - Completed initialization in 1 ms
+2024-11-09 22:33:26 - Start get booking. id: 191
+2024-11-09 22:33:26 - Start get booking. id: 191
+2024-11-09 22:33:26 - select booking0_.id as id1_0_0_, booking0_.check_in_date as check_in2_0_0_, booking0_.check_out_date as check_ou3_0_0_, booking0_.customer_id as customer5_0_0_, booking0_.status as status4_0_0_, customer1_.id as id1_1_1_, customer1_.email as email2_1_1_, customer1_.name as name3_1_1_ from booking booking0_ left outer join customer customer1_ on booking0_.customer_id=customer1_.id where booking0_.id=?
+2024-11-09 22:33:26 - binding parameter [1] as [BIGINT] - [191]
+2024-11-09 22:33:49 - Start get booking. id: 272
+2024-11-09 22:33:49 - Start get booking. id: 272
+2024-11-09 22:33:49 - select booking0_.id as id1_0_0_, booking0_.check_in_date as check_in2_0_0_, booking0_.check_out_date as check_ou3_0_0_, booking0_.customer_id as customer5_0_0_, booking0_.status as status4_0_0_, customer1_.id as id1_1_1_, customer1_.email as email2_1_1_, customer1_.name as name3_1_1_ from booking booking0_ left outer join customer customer1_ on booking0_.customer_id=customer1_.id where booking0_.id=?
+2024-11-09 22:33:49 - binding parameter [1] as [BIGINT] - [272]
+2024-11-09 22:33:49 - extracted value ([id1_1_1_] : [BIGINT]) - [2]
+2024-11-09 22:33:49 - extracted value ([check_in2_0_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:33:49 - extracted value ([check_ou3_0_0_] : [DATE]) - [2024-11-20]
+2024-11-09 22:33:49 - extracted value ([customer5_0_0_] : [BIGINT]) - [2]
+2024-11-09 22:33:49 - extracted value ([status4_0_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:33:49 - extracted value ([email2_1_1_] : [VARCHAR]) - [jane@example.com]
+2024-11-09 22:33:49 - extracted value ([name3_1_1_] : [VARCHAR]) - [Jane Smith]
+2024-11-09 22:34:09 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-09 22:34:09 - HikariPool-1 - Shutdown initiated...
+2024-11-09 22:34:09 - HikariPool-1 - Shutdown completed.
+2024-11-09 22:34:11 - Starting MvpHotelBookingApplication using Java 11.0.22 on JAGGER-PC with PID 1684 (D:\Work\Project\gosell\mvp-hotel-booking\target\classes started by PC in D:\Work\Project\gosell\mvp-hotel-booking)
+2024-11-09 22:34:11 - Starting MvpHotelBookingApplication using Java 11.0.22 on JAGGER-PC with PID 1684 (D:\Work\Project\gosell\mvp-hotel-booking\target\classes started by PC in D:\Work\Project\gosell\mvp-hotel-booking)
+2024-11-09 22:34:11 - Running with Spring Boot v2.7.13, Spring v5.3.28
+2024-11-09 22:34:11 - Running with Spring Boot v2.7.13, Spring v5.3.28
+2024-11-09 22:34:11 - No active profile set, falling back to 1 default profile: "default"
+2024-11-09 22:34:11 - No active profile set, falling back to 1 default profile: "default"
+2024-11-09 22:34:11 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-09 22:34:11 - Finished Spring Data repository scanning in 30 ms. Found 2 JPA repository interfaces.
+2024-11-09 22:34:12 - Tomcat initialized with port(s): 8080 (http)
+2024-11-09 22:34:12 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-09 22:34:12 - Starting service [Tomcat]
+2024-11-09 22:34:12 - Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-11-09 22:34:12 - Initializing Spring embedded WebApplicationContext
+2024-11-09 22:34:12 - Root WebApplicationContext: initialization completed in 1058 ms
+2024-11-09 22:34:12 - HikariPool-1 - Starting...
+2024-11-09 22:34:12 - HikariPool-1 - Start completed.
+2024-11-09 22:34:12 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-09 22:34:12 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2024-11-09 22:34:12 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-11-09 22:34:12 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2024-11-09 22:34:13 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-11-09 22:34:13 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-09 22:34:13 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-09 22:34:13 - Exposing 2 endpoint(s) beneath base path '/actuator'
+2024-11-09 22:34:13 - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-09 22:34:13 - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-09 22:34:13 - Started MvpHotelBookingApplication in 2.896 seconds (JVM running for 3.162)
+2024-11-09 22:34:13 - Started MvpHotelBookingApplication in 2.896 seconds (JVM running for 3.162)
+2024-11-09 22:34:22 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-09 22:34:22 - Initializing Servlet 'dispatcherServlet'
+2024-11-09 22:34:22 - Completed initialization in 1 ms
+2024-11-09 22:34:22 - Start get booking. id: 272
+2024-11-09 22:34:22 - Start get booking. id: 272
+2024-11-09 22:34:22 - select booking0_.id as id1_0_0_, booking0_.check_in_date as check_in2_0_0_, booking0_.check_out_date as check_ou3_0_0_, booking0_.customer_id as customer5_0_0_, booking0_.status as status4_0_0_, customer1_.id as id1_1_1_, customer1_.email as email2_1_1_, customer1_.name as name3_1_1_ from booking booking0_ left outer join customer customer1_ on booking0_.customer_id=customer1_.id where booking0_.id=?
+2024-11-09 22:34:22 - binding parameter [1] as [BIGINT] - [272]
+2024-11-09 22:34:22 - extracted value ([id1_1_1_] : [BIGINT]) - [2]
+2024-11-09 22:34:22 - extracted value ([check_in2_0_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:34:22 - extracted value ([check_ou3_0_0_] : [DATE]) - [2024-11-20]
+2024-11-09 22:34:22 - extracted value ([customer5_0_0_] : [BIGINT]) - [2]
+2024-11-09 22:34:22 - extracted value ([status4_0_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:34:22 - extracted value ([email2_1_1_] : [VARCHAR]) - [jane@example.com]
+2024-11-09 22:34:22 - extracted value ([name3_1_1_] : [VARCHAR]) - [Jane Smith]
+2024-11-09 22:37:12 - Starting BookingControllerTest using Java 11.0.22 on JAGGER-PC with PID 6412 (started by PC in D:\Work\Project\gosell\mvp-hotel-booking)
+2024-11-09 22:37:12 - Starting BookingControllerTest using Java 11.0.22 on JAGGER-PC with PID 6412 (started by PC in D:\Work\Project\gosell\mvp-hotel-booking)
+2024-11-09 22:37:12 - Running with Spring Boot v2.7.13, Spring v5.3.28
+2024-11-09 22:37:12 - Running with Spring Boot v2.7.13, Spring v5.3.28
+2024-11-09 22:37:12 - No active profile set, falling back to 1 default profile: "default"
+2024-11-09 22:37:12 - No active profile set, falling back to 1 default profile: "default"
+2024-11-09 22:37:12 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-09 22:37:12 - Finished Spring Data repository scanning in 23 ms. Found 2 JPA repository interfaces.
+2024-11-09 22:37:13 - HikariPool-1 - Starting...
+2024-11-09 22:37:13 - HikariPool-1 - Start completed.
+2024-11-09 22:37:13 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-09 22:37:13 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2024-11-09 22:37:13 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-11-09 22:37:13 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2024-11-09 22:37:13 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-11-09 22:37:13 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-09 22:37:14 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-09 22:37:14 - Initializing Spring TestDispatcherServlet ''
+2024-11-09 22:37:14 - Initializing Servlet ''
+2024-11-09 22:37:14 - Exposing 2 endpoint(s) beneath base path '/actuator'
+2024-11-09 22:37:14 - Completed initialization in 18 ms
+2024-11-09 22:37:14 - Started BookingControllerTest in 2.727 seconds (JVM running for 3.387)
+2024-11-09 22:37:14 - Started BookingControllerTest in 2.727 seconds (JVM running for 3.387)
+2024-11-09 22:37:14 - insert into customer (email, name) values (?, ?)
+2024-11-09 22:37:14 - binding parameter [1] as [VARCHAR] - [testuser@example.com]
+2024-11-09 22:37:14 - binding parameter [2] as [VARCHAR] - [Test User]
+2024-11-09 22:37:14 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:37:14 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:37:14 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:37:14 - binding parameter [3] as [BIGINT] - [177]
+2024-11-09 22:37:14 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:37:14 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:37:14 - binding parameter [1] as [DATE] - [2024-11-05]
+2024-11-09 22:37:14 - binding parameter [2] as [DATE] - [2024-11-08]
+2024-11-09 22:37:14 - binding parameter [3] as [BIGINT] - [177]
+2024-11-09 22:37:14 - binding parameter [4] as [VARCHAR] - [CANCELLED]
+2024-11-09 22:37:14 - Start search booking
+2024-11-09 22:37:14 - Start search booking
+2024-11-09 22:37:14 - select booking0_.id as id1_0_, booking0_.check_in_date as check_in2_0_, booking0_.check_out_date as check_ou3_0_, booking0_.customer_id as customer5_0_, booking0_.status as status4_0_ from booking booking0_ cross join customer customer1_ where booking0_.customer_id=customer1_.id and (? is null or customer1_.name like ('%'||?||'%')) and (? is null or customer1_.email like ('%'||?||'%')) and (? is null or booking0_.status=?) order by booking0_.id asc limit ?
+2024-11-09 22:37:14 - binding parameter [1] as [VARCHAR] - [Test User]
+2024-11-09 22:37:14 - binding parameter [2] as [VARCHAR] - [Test User]
+2024-11-09 22:37:14 - binding parameter [3] as [VARCHAR] - [testuser@example.com]
+2024-11-09 22:37:14 - binding parameter [4] as [VARCHAR] - [testuser@example.com]
+2024-11-09 22:37:14 - binding parameter [5] as [VARCHAR] - [BOOKED]
+2024-11-09 22:37:14 - binding parameter [6] as [VARCHAR] - [BOOKED]
+2024-11-09 22:37:14 - extracted value ([id1_0_] : [BIGINT]) - [273]
+2024-11-09 22:37:14 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:37:14 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:37:14 - extracted value ([customer5_0_] : [BIGINT]) - [177]
+2024-11-09 22:37:14 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:14 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:37:14 - binding parameter [1] as [BIGINT] - [177]
+2024-11-09 22:37:14 - extracted value ([email2_1_0_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:37:14 - extracted value ([name3_1_0_] : [VARCHAR]) - [Test User]
+2024-11-09 22:37:15 - select booking0_.id as id1_0_, booking0_.check_in_date as check_in2_0_, booking0_.check_out_date as check_ou3_0_, booking0_.customer_id as customer5_0_, booking0_.status as status4_0_ from booking booking0_
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [261]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-01]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-05]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [1]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [262]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-03]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-06]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [2]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [CANCELLED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [263]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-07]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [3]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [264]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-12]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [4]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [265]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-18]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [5]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [266]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-18]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-20]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [6]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [CANCELLED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [267]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-20]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-25]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [7]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [268]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-22]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-26]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [8]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [269]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-25]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-28]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [9]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [CANCELLED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [270]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-28]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-12-01]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [10]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [271]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-09]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-19]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [1]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [272]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-20]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [2]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [273]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [177]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [274]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-05]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-08]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [177]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [CANCELLED]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [1]
+2024-11-09 22:37:15 - extracted value ([email2_1_0_] : [VARCHAR]) - [john@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_0_] : [VARCHAR]) - [John Doe]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [2]
+2024-11-09 22:37:15 - extracted value ([email2_1_0_] : [VARCHAR]) - [jane@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_0_] : [VARCHAR]) - [Jane Smith]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [3]
+2024-11-09 22:37:15 - extracted value ([email2_1_0_] : [VARCHAR]) - [alice@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_0_] : [VARCHAR]) - [Alice Johnson]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [4]
+2024-11-09 22:37:15 - extracted value ([email2_1_0_] : [VARCHAR]) - [bob@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_0_] : [VARCHAR]) - [Bob Brown]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [5]
+2024-11-09 22:37:15 - extracted value ([email2_1_0_] : [VARCHAR]) - [charlie@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_0_] : [VARCHAR]) - [Charlie Davis]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [6]
+2024-11-09 22:37:15 - extracted value ([email2_1_0_] : [VARCHAR]) - [diana@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_0_] : [VARCHAR]) - [Diana Evans]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [7]
+2024-11-09 22:37:15 - extracted value ([email2_1_0_] : [VARCHAR]) - [frank@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_0_] : [VARCHAR]) - [Frank Green]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [8]
+2024-11-09 22:37:15 - extracted value ([email2_1_0_] : [VARCHAR]) - [grace@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_0_] : [VARCHAR]) - [Grace Hall]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [9]
+2024-11-09 22:37:15 - extracted value ([email2_1_0_] : [VARCHAR]) - [henry@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_0_] : [VARCHAR]) - [Henry Ives]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [10]
+2024-11-09 22:37:15 - extracted value ([email2_1_0_] : [VARCHAR]) - [ivy@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_0_] : [VARCHAR]) - [Ivy Jones]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [177]
+2024-11-09 22:37:15 - extracted value ([email2_1_0_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_0_] : [VARCHAR]) - [Test User]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [261]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [262]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [263]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [264]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [265]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [266]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [267]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [268]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [269]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [270]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [271]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [272]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [273]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [274]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_, customer0_.email as email2_1_, customer0_.name as name3_1_ from customer customer0_
+2024-11-09 22:37:15 - extracted value ([id1_1_] : [BIGINT]) - [1]
+2024-11-09 22:37:15 - extracted value ([email2_1_] : [VARCHAR]) - [john@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_] : [VARCHAR]) - [John Doe]
+2024-11-09 22:37:15 - extracted value ([id1_1_] : [BIGINT]) - [2]
+2024-11-09 22:37:15 - extracted value ([email2_1_] : [VARCHAR]) - [jane@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_] : [VARCHAR]) - [Jane Smith]
+2024-11-09 22:37:15 - extracted value ([id1_1_] : [BIGINT]) - [3]
+2024-11-09 22:37:15 - extracted value ([email2_1_] : [VARCHAR]) - [alice@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_] : [VARCHAR]) - [Alice Johnson]
+2024-11-09 22:37:15 - extracted value ([id1_1_] : [BIGINT]) - [4]
+2024-11-09 22:37:15 - extracted value ([email2_1_] : [VARCHAR]) - [bob@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_] : [VARCHAR]) - [Bob Brown]
+2024-11-09 22:37:15 - extracted value ([id1_1_] : [BIGINT]) - [5]
+2024-11-09 22:37:15 - extracted value ([email2_1_] : [VARCHAR]) - [charlie@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_] : [VARCHAR]) - [Charlie Davis]
+2024-11-09 22:37:15 - extracted value ([id1_1_] : [BIGINT]) - [6]
+2024-11-09 22:37:15 - extracted value ([email2_1_] : [VARCHAR]) - [diana@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_] : [VARCHAR]) - [Diana Evans]
+2024-11-09 22:37:15 - extracted value ([id1_1_] : [BIGINT]) - [7]
+2024-11-09 22:37:15 - extracted value ([email2_1_] : [VARCHAR]) - [frank@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_] : [VARCHAR]) - [Frank Green]
+2024-11-09 22:37:15 - extracted value ([id1_1_] : [BIGINT]) - [8]
+2024-11-09 22:37:15 - extracted value ([email2_1_] : [VARCHAR]) - [grace@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_] : [VARCHAR]) - [Grace Hall]
+2024-11-09 22:37:15 - extracted value ([id1_1_] : [BIGINT]) - [9]
+2024-11-09 22:37:15 - extracted value ([email2_1_] : [VARCHAR]) - [henry@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_] : [VARCHAR]) - [Henry Ives]
+2024-11-09 22:37:15 - extracted value ([id1_1_] : [BIGINT]) - [10]
+2024-11-09 22:37:15 - extracted value ([email2_1_] : [VARCHAR]) - [ivy@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_] : [VARCHAR]) - [Ivy Jones]
+2024-11-09 22:37:15 - extracted value ([id1_1_] : [BIGINT]) - [177]
+2024-11-09 22:37:15 - extracted value ([email2_1_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_] : [VARCHAR]) - [Test User]
+2024-11-09 22:37:15 - delete from customer where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [1]
+2024-11-09 22:37:15 - delete from customer where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [2]
+2024-11-09 22:37:15 - delete from customer where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [3]
+2024-11-09 22:37:15 - delete from customer where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [4]
+2024-11-09 22:37:15 - delete from customer where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [5]
+2024-11-09 22:37:15 - delete from customer where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [6]
+2024-11-09 22:37:15 - delete from customer where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [7]
+2024-11-09 22:37:15 - delete from customer where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [8]
+2024-11-09 22:37:15 - delete from customer where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [9]
+2024-11-09 22:37:15 - delete from customer where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [10]
+2024-11-09 22:37:15 - delete from customer where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [177]
+2024-11-09 22:37:15 - insert into customer (email, name) values (?, ?)
+2024-11-09 22:37:15 - binding parameter [1] as [VARCHAR] - [testuser@example.com]
+2024-11-09 22:37:15 - binding parameter [2] as [VARCHAR] - [Test User]
+2024-11-09 22:37:15 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:37:15 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:37:15 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:37:15 - binding parameter [3] as [BIGINT] - [178]
+2024-11-09 22:37:15 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:37:15 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:37:15 - binding parameter [1] as [DATE] - [2024-11-05]
+2024-11-09 22:37:15 - binding parameter [2] as [DATE] - [2024-11-08]
+2024-11-09 22:37:15 - binding parameter [3] as [BIGINT] - [178]
+2024-11-09 22:37:15 - binding parameter [4] as [VARCHAR] - [CANCELLED]
+2024-11-09 22:37:15 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:37:15 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:37:15 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:37:15 - binding parameter [3] as [BIGINT] - [178]
+2024-11-09 22:37:15 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:37:15 - Start cancel booking. id: 277
+2024-11-09 22:37:15 - Start cancel booking. id: 277
+2024-11-09 22:37:15 - select booking0_.id as id1_0_0_, booking0_.check_in_date as check_in2_0_0_, booking0_.check_out_date as check_ou3_0_0_, booking0_.customer_id as customer5_0_0_, booking0_.status as status4_0_0_, customer1_.id as id1_1_1_, customer1_.email as email2_1_1_, customer1_.name as name3_1_1_ from booking booking0_ left outer join customer customer1_ on booking0_.customer_id=customer1_.id where booking0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [277]
+2024-11-09 22:37:15 - extracted value ([id1_1_1_] : [BIGINT]) - [178]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:37:15 - extracted value ([customer5_0_0_] : [BIGINT]) - [178]
+2024-11-09 22:37:15 - extracted value ([status4_0_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - extracted value ([email2_1_1_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_1_] : [VARCHAR]) - [Test User]
+2024-11-09 22:37:15 - update booking set check_in_date=?, check_out_date=?, customer_id=?, status=? where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:37:15 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:37:15 - binding parameter [3] as [BIGINT] - [178]
+2024-11-09 22:37:15 - binding parameter [4] as [VARCHAR] - [CANCELLED]
+2024-11-09 22:37:15 - binding parameter [5] as [BIGINT] - [277]
+2024-11-09 22:37:15 - select booking0_.id as id1_0_0_, booking0_.check_in_date as check_in2_0_0_, booking0_.check_out_date as check_ou3_0_0_, booking0_.customer_id as customer5_0_0_, booking0_.status as status4_0_0_, customer1_.id as id1_1_1_, customer1_.email as email2_1_1_, customer1_.name as name3_1_1_ from booking booking0_ left outer join customer customer1_ on booking0_.customer_id=customer1_.id where booking0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [277]
+2024-11-09 22:37:15 - extracted value ([id1_1_1_] : [BIGINT]) - [178]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:37:15 - extracted value ([customer5_0_0_] : [BIGINT]) - [178]
+2024-11-09 22:37:15 - extracted value ([status4_0_0_] : [VARCHAR]) - [CANCELLED]
+2024-11-09 22:37:15 - extracted value ([email2_1_1_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_1_] : [VARCHAR]) - [Test User]
+2024-11-09 22:37:15 - select booking0_.id as id1_0_, booking0_.check_in_date as check_in2_0_, booking0_.check_out_date as check_ou3_0_, booking0_.customer_id as customer5_0_, booking0_.status as status4_0_ from booking booking0_
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [275]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [178]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [276]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-05]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-08]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [178]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [CANCELLED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [277]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [178]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [CANCELLED]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [178]
+2024-11-09 22:37:15 - extracted value ([email2_1_0_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_0_] : [VARCHAR]) - [Test User]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [275]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [276]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [277]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_, customer0_.email as email2_1_, customer0_.name as name3_1_ from customer customer0_
+2024-11-09 22:37:15 - extracted value ([id1_1_] : [BIGINT]) - [178]
+2024-11-09 22:37:15 - extracted value ([email2_1_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_] : [VARCHAR]) - [Test User]
+2024-11-09 22:37:15 - delete from customer where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [178]
+2024-11-09 22:37:15 - insert into customer (email, name) values (?, ?)
+2024-11-09 22:37:15 - binding parameter [1] as [VARCHAR] - [testuser@example.com]
+2024-11-09 22:37:15 - binding parameter [2] as [VARCHAR] - [Test User]
+2024-11-09 22:37:15 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:37:15 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:37:15 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:37:15 - binding parameter [3] as [BIGINT] - [179]
+2024-11-09 22:37:15 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:37:15 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:37:15 - binding parameter [1] as [DATE] - [2024-11-05]
+2024-11-09 22:37:15 - binding parameter [2] as [DATE] - [2024-11-08]
+2024-11-09 22:37:15 - binding parameter [3] as [BIGINT] - [179]
+2024-11-09 22:37:15 - binding parameter [4] as [VARCHAR] - [CANCELLED]
+2024-11-09 22:37:15 - Start create booking. Payload: com.example.demo.request.BookingRequest@27f6e2c3
+2024-11-09 22:37:15 - Start create booking. Payload: com.example.demo.request.BookingRequest@27f6e2c3
+2024-11-09 22:37:15 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [179]
+2024-11-09 22:37:15 - extracted value ([email2_1_0_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_0_] : [VARCHAR]) - [Test User]
+2024-11-09 22:37:15 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:37:15 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:37:15 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:37:15 - binding parameter [3] as [BIGINT] - [179]
+2024-11-09 22:37:15 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:37:15 - select booking0_.id as id1_0_, booking0_.check_in_date as check_in2_0_, booking0_.check_out_date as check_ou3_0_, booking0_.customer_id as customer5_0_, booking0_.status as status4_0_ from booking booking0_
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [278]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [179]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [279]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-05]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-08]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [179]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [CANCELLED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [280]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [179]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [179]
+2024-11-09 22:37:15 - extracted value ([email2_1_0_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_0_] : [VARCHAR]) - [Test User]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [278]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [279]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [280]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_, customer0_.email as email2_1_, customer0_.name as name3_1_ from customer customer0_
+2024-11-09 22:37:15 - extracted value ([id1_1_] : [BIGINT]) - [179]
+2024-11-09 22:37:15 - extracted value ([email2_1_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_] : [VARCHAR]) - [Test User]
+2024-11-09 22:37:15 - delete from customer where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [179]
+2024-11-09 22:37:15 - insert into customer (email, name) values (?, ?)
+2024-11-09 22:37:15 - binding parameter [1] as [VARCHAR] - [testuser@example.com]
+2024-11-09 22:37:15 - binding parameter [2] as [VARCHAR] - [Test User]
+2024-11-09 22:37:15 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:37:15 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:37:15 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:37:15 - binding parameter [3] as [BIGINT] - [180]
+2024-11-09 22:37:15 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:37:15 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:37:15 - binding parameter [1] as [DATE] - [2024-11-05]
+2024-11-09 22:37:15 - binding parameter [2] as [DATE] - [2024-11-08]
+2024-11-09 22:37:15 - binding parameter [3] as [BIGINT] - [180]
+2024-11-09 22:37:15 - binding parameter [4] as [VARCHAR] - [CANCELLED]
+2024-11-09 22:37:15 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:37:15 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:37:15 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:37:15 - binding parameter [3] as [BIGINT] - [180]
+2024-11-09 22:37:15 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:37:15 - Start get booking. id: 283
+2024-11-09 22:37:15 - Start get booking. id: 283
+2024-11-09 22:37:15 - select booking0_.id as id1_0_0_, booking0_.check_in_date as check_in2_0_0_, booking0_.check_out_date as check_ou3_0_0_, booking0_.customer_id as customer5_0_0_, booking0_.status as status4_0_0_, customer1_.id as id1_1_1_, customer1_.email as email2_1_1_, customer1_.name as name3_1_1_ from booking booking0_ left outer join customer customer1_ on booking0_.customer_id=customer1_.id where booking0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [283]
+2024-11-09 22:37:15 - extracted value ([id1_1_1_] : [BIGINT]) - [180]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:37:15 - extracted value ([customer5_0_0_] : [BIGINT]) - [180]
+2024-11-09 22:37:15 - extracted value ([status4_0_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - extracted value ([email2_1_1_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_1_] : [VARCHAR]) - [Test User]
+2024-11-09 22:37:15 - select booking0_.id as id1_0_, booking0_.check_in_date as check_in2_0_, booking0_.check_out_date as check_ou3_0_, booking0_.customer_id as customer5_0_, booking0_.status as status4_0_ from booking booking0_
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [281]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [180]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [282]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-05]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-08]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [180]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [CANCELLED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [283]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [180]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [180]
+2024-11-09 22:37:15 - extracted value ([email2_1_0_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_0_] : [VARCHAR]) - [Test User]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [281]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [282]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [283]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_, customer0_.email as email2_1_, customer0_.name as name3_1_ from customer customer0_
+2024-11-09 22:37:15 - extracted value ([id1_1_] : [BIGINT]) - [180]
+2024-11-09 22:37:15 - extracted value ([email2_1_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_] : [VARCHAR]) - [Test User]
+2024-11-09 22:37:15 - delete from customer where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [180]
+2024-11-09 22:37:15 - insert into customer (email, name) values (?, ?)
+2024-11-09 22:37:15 - binding parameter [1] as [VARCHAR] - [testuser@example.com]
+2024-11-09 22:37:15 - binding parameter [2] as [VARCHAR] - [Test User]
+2024-11-09 22:37:15 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:37:15 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:37:15 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:37:15 - binding parameter [3] as [BIGINT] - [181]
+2024-11-09 22:37:15 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:37:15 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:37:15 - binding parameter [1] as [DATE] - [2024-11-05]
+2024-11-09 22:37:15 - binding parameter [2] as [DATE] - [2024-11-08]
+2024-11-09 22:37:15 - binding parameter [3] as [BIGINT] - [181]
+2024-11-09 22:37:15 - binding parameter [4] as [VARCHAR] - [CANCELLED]
+2024-11-09 22:37:15 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:37:15 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:37:15 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:37:15 - binding parameter [3] as [BIGINT] - [181]
+2024-11-09 22:37:15 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:37:15 - Start update booking. id: 286, data: com.example.demo.request.BookingRequest@2b8f5aa4
+2024-11-09 22:37:15 - Start update booking. id: 286, data: com.example.demo.request.BookingRequest@2b8f5aa4
+2024-11-09 22:37:15 - select booking0_.id as id1_0_0_, booking0_.check_in_date as check_in2_0_0_, booking0_.check_out_date as check_ou3_0_0_, booking0_.customer_id as customer5_0_0_, booking0_.status as status4_0_0_, customer1_.id as id1_1_1_, customer1_.email as email2_1_1_, customer1_.name as name3_1_1_ from booking booking0_ left outer join customer customer1_ on booking0_.customer_id=customer1_.id where booking0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [286]
+2024-11-09 22:37:15 - extracted value ([id1_1_1_] : [BIGINT]) - [181]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:37:15 - extracted value ([customer5_0_0_] : [BIGINT]) - [181]
+2024-11-09 22:37:15 - extracted value ([status4_0_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - extracted value ([email2_1_1_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_1_] : [VARCHAR]) - [Test User]
+2024-11-09 22:37:15 - update booking set check_in_date=?, check_out_date=?, customer_id=?, status=? where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [DATE] - [2024-11-12]
+2024-11-09 22:37:15 - binding parameter [2] as [DATE] - [2024-11-16]
+2024-11-09 22:37:15 - binding parameter [3] as [BIGINT] - [181]
+2024-11-09 22:37:15 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:37:15 - binding parameter [5] as [BIGINT] - [286]
+2024-11-09 22:37:15 - select booking0_.id as id1_0_, booking0_.check_in_date as check_in2_0_, booking0_.check_out_date as check_ou3_0_, booking0_.customer_id as customer5_0_, booking0_.status as status4_0_ from booking booking0_
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [284]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [181]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [285]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-05]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-08]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [181]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [CANCELLED]
+2024-11-09 22:37:15 - extracted value ([id1_0_] : [BIGINT]) - [286]
+2024-11-09 22:37:15 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-12]
+2024-11-09 22:37:15 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-16]
+2024-11-09 22:37:15 - extracted value ([customer5_0_] : [BIGINT]) - [181]
+2024-11-09 22:37:15 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [181]
+2024-11-09 22:37:15 - extracted value ([email2_1_0_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_0_] : [VARCHAR]) - [Test User]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [284]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [285]
+2024-11-09 22:37:15 - delete from booking where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [286]
+2024-11-09 22:37:15 - select customer0_.id as id1_1_, customer0_.email as email2_1_, customer0_.name as name3_1_ from customer customer0_
+2024-11-09 22:37:15 - extracted value ([id1_1_] : [BIGINT]) - [181]
+2024-11-09 22:37:15 - extracted value ([email2_1_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:37:15 - extracted value ([name3_1_] : [VARCHAR]) - [Test User]
+2024-11-09 22:37:15 - delete from customer where id=?
+2024-11-09 22:37:15 - binding parameter [1] as [BIGINT] - [181]
+2024-11-09 22:37:15 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-09 22:37:15 - HikariPool-1 - Shutdown initiated...
+2024-11-09 22:37:15 - HikariPool-1 - Shutdown completed.
+2024-11-09 22:43:59 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-09 22:43:59 - HikariPool-1 - Shutdown initiated...
+2024-11-09 22:43:59 - HikariPool-1 - Shutdown completed.
+2024-11-09 22:44:02 - Starting BookingControllerTest using Java 11.0.22 on JAGGER-PC with PID 6556 (started by PC in D:\Work\Project\gosell\mvp-hotel-booking)
+2024-11-09 22:44:02 - Running with Spring Boot v2.7.13, Spring v5.3.28
+2024-11-09 22:44:02 - No active profile set, falling back to 1 default profile: "default"
+2024-11-09 22:44:03 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-09 22:44:03 - Finished Spring Data repository scanning in 27 ms. Found 2 JPA repository interfaces.
+2024-11-09 22:44:03 - HikariPool-1 - Starting...
+2024-11-09 22:44:03 - HikariPool-1 - Start completed.
+2024-11-09 22:44:03 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-09 22:44:03 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2024-11-09 22:44:03 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-11-09 22:44:03 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2024-11-09 22:44:04 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-11-09 22:44:04 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-09 22:44:04 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-09 22:44:05 - Initializing Spring TestDispatcherServlet ''
+2024-11-09 22:44:05 - Initializing Servlet ''
+2024-11-09 22:44:05 - Exposing 2 endpoint(s) beneath base path '/actuator'
+2024-11-09 22:44:05 - Completed initialization in 18 ms
+2024-11-09 22:44:05 - Started BookingControllerTest in 2.767 seconds (JVM running for 3.433)
+2024-11-09 22:44:05 - insert into customer (email, name) values (?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [VARCHAR] - [testuser@example.com]
+2024-11-09 22:44:05 - binding parameter [2] as [VARCHAR] - [Test User]
+2024-11-09 22:44:05 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:44:05 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:44:05 - binding parameter [3] as [BIGINT] - [182]
+2024-11-09 22:44:05 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:44:05 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [DATE] - [2024-11-05]
+2024-11-09 22:44:05 - binding parameter [2] as [DATE] - [2024-11-08]
+2024-11-09 22:44:05 - binding parameter [3] as [BIGINT] - [182]
+2024-11-09 22:44:05 - binding parameter [4] as [VARCHAR] - [CANCELLED]
+2024-11-09 22:44:05 - Start search booking
+2024-11-09 22:44:05 - select booking0_.id as id1_0_, booking0_.check_in_date as check_in2_0_, booking0_.check_out_date as check_ou3_0_, booking0_.customer_id as customer5_0_, booking0_.status as status4_0_ from booking booking0_ cross join customer customer1_ where booking0_.customer_id=customer1_.id and (? is null or customer1_.name like ('%'||?||'%')) and (? is null or customer1_.email like ('%'||?||'%')) and (? is null or booking0_.status=?) order by booking0_.id asc limit ?
+2024-11-09 22:44:05 - binding parameter [1] as [VARCHAR] - [Test User]
+2024-11-09 22:44:05 - binding parameter [2] as [VARCHAR] - [Test User]
+2024-11-09 22:44:05 - binding parameter [3] as [VARCHAR] - [testuser@example.com]
+2024-11-09 22:44:05 - binding parameter [4] as [VARCHAR] - [testuser@example.com]
+2024-11-09 22:44:05 - binding parameter [5] as [VARCHAR] - [BOOKED]
+2024-11-09 22:44:05 - binding parameter [6] as [VARCHAR] - [BOOKED]
+2024-11-09 22:44:05 - extracted value ([id1_0_] : [BIGINT]) - [287]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:44:05 - extracted value ([customer5_0_] : [BIGINT]) - [182]
+2024-11-09 22:44:05 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:44:05 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [182]
+2024-11-09 22:44:05 - extracted value ([email2_1_0_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:44:05 - extracted value ([name3_1_0_] : [VARCHAR]) - [Test User]
+2024-11-09 22:44:05 - select booking0_.id as id1_0_, booking0_.check_in_date as check_in2_0_, booking0_.check_out_date as check_ou3_0_, booking0_.customer_id as customer5_0_, booking0_.status as status4_0_ from booking booking0_
+2024-11-09 22:44:05 - extracted value ([id1_0_] : [BIGINT]) - [287]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:44:05 - extracted value ([customer5_0_] : [BIGINT]) - [182]
+2024-11-09 22:44:05 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:44:05 - extracted value ([id1_0_] : [BIGINT]) - [288]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-05]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-08]
+2024-11-09 22:44:05 - extracted value ([customer5_0_] : [BIGINT]) - [182]
+2024-11-09 22:44:05 - extracted value ([status4_0_] : [VARCHAR]) - [CANCELLED]
+2024-11-09 22:44:05 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [182]
+2024-11-09 22:44:05 - extracted value ([email2_1_0_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:44:05 - extracted value ([name3_1_0_] : [VARCHAR]) - [Test User]
+2024-11-09 22:44:05 - delete from booking where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [287]
+2024-11-09 22:44:05 - delete from booking where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [288]
+2024-11-09 22:44:05 - select customer0_.id as id1_1_, customer0_.email as email2_1_, customer0_.name as name3_1_ from customer customer0_
+2024-11-09 22:44:05 - extracted value ([id1_1_] : [BIGINT]) - [182]
+2024-11-09 22:44:05 - extracted value ([email2_1_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:44:05 - extracted value ([name3_1_] : [VARCHAR]) - [Test User]
+2024-11-09 22:44:05 - delete from customer where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [182]
+2024-11-09 22:44:05 - insert into customer (email, name) values (?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [VARCHAR] - [testuser@example.com]
+2024-11-09 22:44:05 - binding parameter [2] as [VARCHAR] - [Test User]
+2024-11-09 22:44:05 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:44:05 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:44:05 - binding parameter [3] as [BIGINT] - [183]
+2024-11-09 22:44:05 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:44:05 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [DATE] - [2024-11-05]
+2024-11-09 22:44:05 - binding parameter [2] as [DATE] - [2024-11-08]
+2024-11-09 22:44:05 - binding parameter [3] as [BIGINT] - [183]
+2024-11-09 22:44:05 - binding parameter [4] as [VARCHAR] - [CANCELLED]
+2024-11-09 22:44:05 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:44:05 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:44:05 - binding parameter [3] as [BIGINT] - [183]
+2024-11-09 22:44:05 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:44:05 - Start cancel booking. id: 291
+2024-11-09 22:44:05 - select booking0_.id as id1_0_0_, booking0_.check_in_date as check_in2_0_0_, booking0_.check_out_date as check_ou3_0_0_, booking0_.customer_id as customer5_0_0_, booking0_.status as status4_0_0_, customer1_.id as id1_1_1_, customer1_.email as email2_1_1_, customer1_.name as name3_1_1_ from booking booking0_ left outer join customer customer1_ on booking0_.customer_id=customer1_.id where booking0_.id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [291]
+2024-11-09 22:44:05 - extracted value ([id1_1_1_] : [BIGINT]) - [183]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:44:05 - extracted value ([customer5_0_0_] : [BIGINT]) - [183]
+2024-11-09 22:44:05 - extracted value ([status4_0_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:44:05 - extracted value ([email2_1_1_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:44:05 - extracted value ([name3_1_1_] : [VARCHAR]) - [Test User]
+2024-11-09 22:44:05 - update booking set check_in_date=?, check_out_date=?, customer_id=?, status=? where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:44:05 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:44:05 - binding parameter [3] as [BIGINT] - [183]
+2024-11-09 22:44:05 - binding parameter [4] as [VARCHAR] - [CANCELLED]
+2024-11-09 22:44:05 - binding parameter [5] as [BIGINT] - [291]
+2024-11-09 22:44:05 - select booking0_.id as id1_0_0_, booking0_.check_in_date as check_in2_0_0_, booking0_.check_out_date as check_ou3_0_0_, booking0_.customer_id as customer5_0_0_, booking0_.status as status4_0_0_, customer1_.id as id1_1_1_, customer1_.email as email2_1_1_, customer1_.name as name3_1_1_ from booking booking0_ left outer join customer customer1_ on booking0_.customer_id=customer1_.id where booking0_.id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [291]
+2024-11-09 22:44:05 - extracted value ([id1_1_1_] : [BIGINT]) - [183]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:44:05 - extracted value ([customer5_0_0_] : [BIGINT]) - [183]
+2024-11-09 22:44:05 - extracted value ([status4_0_0_] : [VARCHAR]) - [CANCELLED]
+2024-11-09 22:44:05 - extracted value ([email2_1_1_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:44:05 - extracted value ([name3_1_1_] : [VARCHAR]) - [Test User]
+2024-11-09 22:44:05 - select booking0_.id as id1_0_, booking0_.check_in_date as check_in2_0_, booking0_.check_out_date as check_ou3_0_, booking0_.customer_id as customer5_0_, booking0_.status as status4_0_ from booking booking0_
+2024-11-09 22:44:05 - extracted value ([id1_0_] : [BIGINT]) - [289]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:44:05 - extracted value ([customer5_0_] : [BIGINT]) - [183]
+2024-11-09 22:44:05 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:44:05 - extracted value ([id1_0_] : [BIGINT]) - [290]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-05]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-08]
+2024-11-09 22:44:05 - extracted value ([customer5_0_] : [BIGINT]) - [183]
+2024-11-09 22:44:05 - extracted value ([status4_0_] : [VARCHAR]) - [CANCELLED]
+2024-11-09 22:44:05 - extracted value ([id1_0_] : [BIGINT]) - [291]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:44:05 - extracted value ([customer5_0_] : [BIGINT]) - [183]
+2024-11-09 22:44:05 - extracted value ([status4_0_] : [VARCHAR]) - [CANCELLED]
+2024-11-09 22:44:05 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [183]
+2024-11-09 22:44:05 - extracted value ([email2_1_0_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:44:05 - extracted value ([name3_1_0_] : [VARCHAR]) - [Test User]
+2024-11-09 22:44:05 - delete from booking where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [289]
+2024-11-09 22:44:05 - delete from booking where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [290]
+2024-11-09 22:44:05 - delete from booking where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [291]
+2024-11-09 22:44:05 - select customer0_.id as id1_1_, customer0_.email as email2_1_, customer0_.name as name3_1_ from customer customer0_
+2024-11-09 22:44:05 - extracted value ([id1_1_] : [BIGINT]) - [183]
+2024-11-09 22:44:05 - extracted value ([email2_1_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:44:05 - extracted value ([name3_1_] : [VARCHAR]) - [Test User]
+2024-11-09 22:44:05 - delete from customer where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [183]
+2024-11-09 22:44:05 - insert into customer (email, name) values (?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [VARCHAR] - [testuser@example.com]
+2024-11-09 22:44:05 - binding parameter [2] as [VARCHAR] - [Test User]
+2024-11-09 22:44:05 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:44:05 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:44:05 - binding parameter [3] as [BIGINT] - [184]
+2024-11-09 22:44:05 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:44:05 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [DATE] - [2024-11-05]
+2024-11-09 22:44:05 - binding parameter [2] as [DATE] - [2024-11-08]
+2024-11-09 22:44:05 - binding parameter [3] as [BIGINT] - [184]
+2024-11-09 22:44:05 - binding parameter [4] as [VARCHAR] - [CANCELLED]
+2024-11-09 22:44:05 - Start create booking. Payload: com.example.demo.request.BookingRequest@72b689f6
+2024-11-09 22:44:05 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [184]
+2024-11-09 22:44:05 - extracted value ([email2_1_0_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:44:05 - extracted value ([name3_1_0_] : [VARCHAR]) - [Test User]
+2024-11-09 22:44:05 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:44:05 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:44:05 - binding parameter [3] as [BIGINT] - [184]
+2024-11-09 22:44:05 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:44:05 - select booking0_.id as id1_0_, booking0_.check_in_date as check_in2_0_, booking0_.check_out_date as check_ou3_0_, booking0_.customer_id as customer5_0_, booking0_.status as status4_0_ from booking booking0_
+2024-11-09 22:44:05 - extracted value ([id1_0_] : [BIGINT]) - [292]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:44:05 - extracted value ([customer5_0_] : [BIGINT]) - [184]
+2024-11-09 22:44:05 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:44:05 - extracted value ([id1_0_] : [BIGINT]) - [293]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-05]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-08]
+2024-11-09 22:44:05 - extracted value ([customer5_0_] : [BIGINT]) - [184]
+2024-11-09 22:44:05 - extracted value ([status4_0_] : [VARCHAR]) - [CANCELLED]
+2024-11-09 22:44:05 - extracted value ([id1_0_] : [BIGINT]) - [294]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:44:05 - extracted value ([customer5_0_] : [BIGINT]) - [184]
+2024-11-09 22:44:05 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:44:05 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [184]
+2024-11-09 22:44:05 - extracted value ([email2_1_0_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:44:05 - extracted value ([name3_1_0_] : [VARCHAR]) - [Test User]
+2024-11-09 22:44:05 - delete from booking where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [292]
+2024-11-09 22:44:05 - delete from booking where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [293]
+2024-11-09 22:44:05 - delete from booking where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [294]
+2024-11-09 22:44:05 - select customer0_.id as id1_1_, customer0_.email as email2_1_, customer0_.name as name3_1_ from customer customer0_
+2024-11-09 22:44:05 - extracted value ([id1_1_] : [BIGINT]) - [184]
+2024-11-09 22:44:05 - extracted value ([email2_1_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:44:05 - extracted value ([name3_1_] : [VARCHAR]) - [Test User]
+2024-11-09 22:44:05 - delete from customer where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [184]
+2024-11-09 22:44:05 - insert into customer (email, name) values (?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [VARCHAR] - [testuser@example.com]
+2024-11-09 22:44:05 - binding parameter [2] as [VARCHAR] - [Test User]
+2024-11-09 22:44:05 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:44:05 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:44:05 - binding parameter [3] as [BIGINT] - [185]
+2024-11-09 22:44:05 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:44:05 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [DATE] - [2024-11-05]
+2024-11-09 22:44:05 - binding parameter [2] as [DATE] - [2024-11-08]
+2024-11-09 22:44:05 - binding parameter [3] as [BIGINT] - [185]
+2024-11-09 22:44:05 - binding parameter [4] as [VARCHAR] - [CANCELLED]
+2024-11-09 22:44:05 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:44:05 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:44:05 - binding parameter [3] as [BIGINT] - [185]
+2024-11-09 22:44:05 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:44:05 - Start get booking. id: 297
+2024-11-09 22:44:05 - select booking0_.id as id1_0_0_, booking0_.check_in_date as check_in2_0_0_, booking0_.check_out_date as check_ou3_0_0_, booking0_.customer_id as customer5_0_0_, booking0_.status as status4_0_0_, customer1_.id as id1_1_1_, customer1_.email as email2_1_1_, customer1_.name as name3_1_1_ from booking booking0_ left outer join customer customer1_ on booking0_.customer_id=customer1_.id where booking0_.id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [297]
+2024-11-09 22:44:05 - extracted value ([id1_1_1_] : [BIGINT]) - [185]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:44:05 - extracted value ([customer5_0_0_] : [BIGINT]) - [185]
+2024-11-09 22:44:05 - extracted value ([status4_0_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:44:05 - extracted value ([email2_1_1_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:44:05 - extracted value ([name3_1_1_] : [VARCHAR]) - [Test User]
+2024-11-09 22:44:05 - select booking0_.id as id1_0_, booking0_.check_in_date as check_in2_0_, booking0_.check_out_date as check_ou3_0_, booking0_.customer_id as customer5_0_, booking0_.status as status4_0_ from booking booking0_
+2024-11-09 22:44:05 - extracted value ([id1_0_] : [BIGINT]) - [295]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:44:05 - extracted value ([customer5_0_] : [BIGINT]) - [185]
+2024-11-09 22:44:05 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:44:05 - extracted value ([id1_0_] : [BIGINT]) - [296]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-05]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-08]
+2024-11-09 22:44:05 - extracted value ([customer5_0_] : [BIGINT]) - [185]
+2024-11-09 22:44:05 - extracted value ([status4_0_] : [VARCHAR]) - [CANCELLED]
+2024-11-09 22:44:05 - extracted value ([id1_0_] : [BIGINT]) - [297]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:44:05 - extracted value ([customer5_0_] : [BIGINT]) - [185]
+2024-11-09 22:44:05 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:44:05 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [185]
+2024-11-09 22:44:05 - extracted value ([email2_1_0_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:44:05 - extracted value ([name3_1_0_] : [VARCHAR]) - [Test User]
+2024-11-09 22:44:05 - delete from booking where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [295]
+2024-11-09 22:44:05 - delete from booking where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [296]
+2024-11-09 22:44:05 - delete from booking where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [297]
+2024-11-09 22:44:05 - select customer0_.id as id1_1_, customer0_.email as email2_1_, customer0_.name as name3_1_ from customer customer0_
+2024-11-09 22:44:05 - extracted value ([id1_1_] : [BIGINT]) - [185]
+2024-11-09 22:44:05 - extracted value ([email2_1_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:44:05 - extracted value ([name3_1_] : [VARCHAR]) - [Test User]
+2024-11-09 22:44:05 - delete from customer where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [185]
+2024-11-09 22:44:05 - insert into customer (email, name) values (?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [VARCHAR] - [testuser@example.com]
+2024-11-09 22:44:05 - binding parameter [2] as [VARCHAR] - [Test User]
+2024-11-09 22:44:05 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:44:05 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:44:05 - binding parameter [3] as [BIGINT] - [186]
+2024-11-09 22:44:05 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:44:05 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [DATE] - [2024-11-05]
+2024-11-09 22:44:05 - binding parameter [2] as [DATE] - [2024-11-08]
+2024-11-09 22:44:05 - binding parameter [3] as [BIGINT] - [186]
+2024-11-09 22:44:05 - binding parameter [4] as [VARCHAR] - [CANCELLED]
+2024-11-09 22:44:05 - insert into booking (check_in_date, check_out_date, customer_id, status) values (?, ?, ?, ?)
+2024-11-09 22:44:05 - binding parameter [1] as [DATE] - [2024-11-10]
+2024-11-09 22:44:05 - binding parameter [2] as [DATE] - [2024-11-15]
+2024-11-09 22:44:05 - binding parameter [3] as [BIGINT] - [186]
+2024-11-09 22:44:05 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:44:05 - Start update booking. id: 300, data: com.example.demo.request.BookingRequest@49522bdf
+2024-11-09 22:44:05 - select booking0_.id as id1_0_0_, booking0_.check_in_date as check_in2_0_0_, booking0_.check_out_date as check_ou3_0_0_, booking0_.customer_id as customer5_0_0_, booking0_.status as status4_0_0_, customer1_.id as id1_1_1_, customer1_.email as email2_1_1_, customer1_.name as name3_1_1_ from booking booking0_ left outer join customer customer1_ on booking0_.customer_id=customer1_.id where booking0_.id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [300]
+2024-11-09 22:44:05 - extracted value ([id1_1_1_] : [BIGINT]) - [186]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:44:05 - extracted value ([customer5_0_0_] : [BIGINT]) - [186]
+2024-11-09 22:44:05 - extracted value ([status4_0_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:44:05 - extracted value ([email2_1_1_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:44:05 - extracted value ([name3_1_1_] : [VARCHAR]) - [Test User]
+2024-11-09 22:44:05 - update booking set check_in_date=?, check_out_date=?, customer_id=?, status=? where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [DATE] - [2024-11-12]
+2024-11-09 22:44:05 - binding parameter [2] as [DATE] - [2024-11-16]
+2024-11-09 22:44:05 - binding parameter [3] as [BIGINT] - [186]
+2024-11-09 22:44:05 - binding parameter [4] as [VARCHAR] - [BOOKED]
+2024-11-09 22:44:05 - binding parameter [5] as [BIGINT] - [300]
+2024-11-09 22:44:05 - select booking0_.id as id1_0_, booking0_.check_in_date as check_in2_0_, booking0_.check_out_date as check_ou3_0_, booking0_.customer_id as customer5_0_, booking0_.status as status4_0_ from booking booking0_
+2024-11-09 22:44:05 - extracted value ([id1_0_] : [BIGINT]) - [298]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-10]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-15]
+2024-11-09 22:44:05 - extracted value ([customer5_0_] : [BIGINT]) - [186]
+2024-11-09 22:44:05 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:44:05 - extracted value ([id1_0_] : [BIGINT]) - [299]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-05]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-08]
+2024-11-09 22:44:05 - extracted value ([customer5_0_] : [BIGINT]) - [186]
+2024-11-09 22:44:05 - extracted value ([status4_0_] : [VARCHAR]) - [CANCELLED]
+2024-11-09 22:44:05 - extracted value ([id1_0_] : [BIGINT]) - [300]
+2024-11-09 22:44:05 - extracted value ([check_in2_0_] : [DATE]) - [2024-11-12]
+2024-11-09 22:44:05 - extracted value ([check_ou3_0_] : [DATE]) - [2024-11-16]
+2024-11-09 22:44:05 - extracted value ([customer5_0_] : [BIGINT]) - [186]
+2024-11-09 22:44:05 - extracted value ([status4_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 22:44:05 - select customer0_.id as id1_1_0_, customer0_.email as email2_1_0_, customer0_.name as name3_1_0_ from customer customer0_ where customer0_.id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [186]
+2024-11-09 22:44:05 - extracted value ([email2_1_0_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:44:05 - extracted value ([name3_1_0_] : [VARCHAR]) - [Test User]
+2024-11-09 22:44:05 - delete from booking where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [298]
+2024-11-09 22:44:05 - delete from booking where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [299]
+2024-11-09 22:44:05 - delete from booking where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [300]
+2024-11-09 22:44:05 - select customer0_.id as id1_1_, customer0_.email as email2_1_, customer0_.name as name3_1_ from customer customer0_
+2024-11-09 22:44:05 - extracted value ([id1_1_] : [BIGINT]) - [186]
+2024-11-09 22:44:05 - extracted value ([email2_1_] : [VARCHAR]) - [testuser@example.com]
+2024-11-09 22:44:05 - extracted value ([name3_1_] : [VARCHAR]) - [Test User]
+2024-11-09 22:44:05 - delete from customer where id=?
+2024-11-09 22:44:05 - binding parameter [1] as [BIGINT] - [186]
+2024-11-09 22:44:05 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-09 22:44:05 - HikariPool-1 - Shutdown initiated...
+2024-11-09 22:44:05 - HikariPool-1 - Shutdown completed.
+2024-11-09 22:49:03 - Starting MvpHotelBookingApplication using Java 11.0.22 on JAGGER-PC with PID 4756 (D:\Work\Project\gosell\mvp-hotel-booking\target\classes started by PC in D:\Work\Project\gosell\mvp-hotel-booking)
+2024-11-09 22:49:03 - Running with Spring Boot v2.7.13, Spring v5.3.28
+2024-11-09 22:49:03 - No active profile set, falling back to 1 default profile: "default"
+2024-11-09 22:49:04 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-09 22:49:04 - Finished Spring Data repository scanning in 27 ms. Found 2 JPA repository interfaces.
+2024-11-09 22:49:04 - Tomcat initialized with port(s): 8080 (http)
+2024-11-09 22:49:04 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-09 22:49:04 - Starting service [Tomcat]
+2024-11-09 22:49:04 - Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-11-09 22:49:04 - Initializing Spring embedded WebApplicationContext
+2024-11-09 22:49:04 - Root WebApplicationContext: initialization completed in 966 ms
+2024-11-09 22:49:04 - HikariPool-1 - Starting...
+2024-11-09 22:49:05 - HikariPool-1 - Start completed.
+2024-11-09 22:49:05 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-09 22:49:05 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2024-11-09 22:49:05 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-11-09 22:49:05 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2024-11-09 22:49:05 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-11-09 22:49:05 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-09 22:49:05 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-09 22:49:06 - Exposing 3 endpoint(s) beneath base path '/actuator'
+2024-11-09 22:49:06 - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-09 22:49:06 - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-09 22:49:06 - Started MvpHotelBookingApplication in 2.712 seconds (JVM running for 2.976)
+2024-11-09 22:49:30 - A cookie header was received [Authorization="Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJndWVzdF9ubmVxdm0wbyIsImF1dGgiOiJST0xFX0dVRVNUIiwiZGlzcGxheU5hbWUiOiJndWVzdF9ubmVxdm0wbyIsInVzZXJJZCI6OTI0MDY2LCJsb2NhdGlvbkNvZGUiOiJWTiIsImV4cCI6MTc1Mjc2MDYxNX0.lhuiOWGGsMO-K6ltDD5gWJ7zPaRoWICni6kF8uQDmmO69C20MRlkZCZaCNh1-ZGpo4KJNx1XhuWYoiNesmQ4NA";] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2024-11-09 22:49:30 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-09 22:49:30 - Initializing Servlet 'dispatcherServlet'
+2024-11-09 22:49:30 - Completed initialization in 0 ms
+2024-11-09 22:56:30 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-09 22:56:30 - HikariPool-1 - Shutdown initiated...
+2024-11-09 22:56:30 - HikariPool-1 - Shutdown completed.
+2024-11-09 22:56:31 - Starting MvpHotelBookingApplication using Java 11.0.22 on JAGGER-PC with PID 5400 (D:\Work\Project\gosell\mvp-hotel-booking\target\classes started by PC in D:\Work\Project\gosell\mvp-hotel-booking)
+2024-11-09 22:56:31 - Running with Spring Boot v2.7.13, Spring v5.3.28
+2024-11-09 22:56:31 - No active profile set, falling back to 1 default profile: "default"
+2024-11-09 22:56:32 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-11-09 22:56:32 - Finished Spring Data repository scanning in 27 ms. Found 2 JPA repository interfaces.
+2024-11-09 22:56:32 - Tomcat initialized with port(s): 8080 (http)
+2024-11-09 22:56:32 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-09 22:56:32 - Starting service [Tomcat]
+2024-11-09 22:56:32 - Starting Servlet engine: [Apache Tomcat/9.0.76]
+2024-11-09 22:56:32 - Initializing Spring embedded WebApplicationContext
+2024-11-09 22:56:32 - Root WebApplicationContext: initialization completed in 985 ms
+2024-11-09 22:56:32 - HikariPool-1 - Starting...
+2024-11-09 22:56:32 - HikariPool-1 - Start completed.
+2024-11-09 22:56:32 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-11-09 22:56:32 - HHH000412: Hibernate ORM core version 5.6.15.Final
+2024-11-09 22:56:33 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-11-09 22:56:33 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2024-11-09 22:56:33 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-11-09 22:56:33 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-11-09 22:56:33 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-11-09 22:56:33 - Exposing 3 endpoint(s) beneath base path '/actuator'
+2024-11-09 22:56:33 - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-09 22:56:33 - Tomcat started on port(s): 8080 (http) with context path ''
+2024-11-09 22:56:33 - Started MvpHotelBookingApplication in 2.722 seconds (JVM running for 2.983)
+2024-11-09 22:56:52 - A cookie header was received [Authorization="Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJndWVzdF9ubmVxdm0wbyIsImF1dGgiOiJST0xFX0dVRVNUIiwiZGlzcGxheU5hbWUiOiJndWVzdF9ubmVxdm0wbyIsInVzZXJJZCI6OTI0MDY2LCJsb2NhdGlvbkNvZGUiOiJWTiIsImV4cCI6MTc1Mjc2MDYxNX0.lhuiOWGGsMO-K6ltDD5gWJ7zPaRoWICni6kF8uQDmmO69C20MRlkZCZaCNh1-ZGpo4KJNx1XhuWYoiNesmQ4NA";] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2024-11-09 22:56:52 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-09 22:56:52 - Initializing Servlet 'dispatcherServlet'
+2024-11-09 22:56:52 - Completed initialization in 1 ms
+2024-11-09 23:00:24 - Start get booking. id: 272
+2024-11-09 23:00:25 - select booking0_.id as id1_0_0_, booking0_.check_in_date as check_in2_0_0_, booking0_.check_out_date as check_ou3_0_0_, booking0_.customer_id as customer5_0_0_, booking0_.status as status4_0_0_, customer1_.id as id1_1_1_, customer1_.email as email2_1_1_, customer1_.name as name3_1_1_ from booking booking0_ left outer join customer customer1_ on booking0_.customer_id=customer1_.id where booking0_.id=?
+2024-11-09 23:00:25 - binding parameter [1] as [BIGINT] - [272]
+2024-11-09 23:00:27 - Start get booking. id: 272
+2024-11-09 23:00:27 - select booking0_.id as id1_0_0_, booking0_.check_in_date as check_in2_0_0_, booking0_.check_out_date as check_ou3_0_0_, booking0_.customer_id as customer5_0_0_, booking0_.status as status4_0_0_, customer1_.id as id1_1_1_, customer1_.email as email2_1_1_, customer1_.name as name3_1_1_ from booking booking0_ left outer join customer customer1_ on booking0_.customer_id=customer1_.id where booking0_.id=?
+2024-11-09 23:00:27 - binding parameter [1] as [BIGINT] - [272]
+2024-11-09 23:00:42 - Start get booking. id: 301
+2024-11-09 23:00:42 - select booking0_.id as id1_0_0_, booking0_.check_in_date as check_in2_0_0_, booking0_.check_out_date as check_ou3_0_0_, booking0_.customer_id as customer5_0_0_, booking0_.status as status4_0_0_, customer1_.id as id1_1_1_, customer1_.email as email2_1_1_, customer1_.name as name3_1_1_ from booking booking0_ left outer join customer customer1_ on booking0_.customer_id=customer1_.id where booking0_.id=?
+2024-11-09 23:00:42 - binding parameter [1] as [BIGINT] - [301]
+2024-11-09 23:00:42 - extracted value ([id1_1_1_] : [BIGINT]) - [1]
+2024-11-09 23:00:42 - extracted value ([check_in2_0_0_] : [DATE]) - [2024-11-01]
+2024-11-09 23:00:42 - extracted value ([check_ou3_0_0_] : [DATE]) - [2024-11-05]
+2024-11-09 23:00:42 - extracted value ([customer5_0_0_] : [BIGINT]) - [1]
+2024-11-09 23:00:42 - extracted value ([status4_0_0_] : [VARCHAR]) - [BOOKED]
+2024-11-09 23:00:42 - extracted value ([email2_1_1_] : [VARCHAR]) - [john@example.com]
+2024-11-09 23:00:42 - extracted value ([name3_1_1_] : [VARCHAR]) - [John Doe]
+2024-11-09 23:02:38 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-11-09 23:02:38 - HikariPool-1 - Shutdown initiated...
+2024-11-09 23:02:39 - HikariPool-1 - Shutdown completed.
