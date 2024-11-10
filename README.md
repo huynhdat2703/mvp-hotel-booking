@@ -18,8 +18,8 @@ Before running this project, ensure you have the following installed on your mac
 Clone the repository to your local machine using Git:
 
 ```bash
-git clone https://your-repository-url.git
-cd your-repository-folder
+git clone https://github.com/huynhdat2703/mvp-hotel-booking.git
+cd mvp-hotel-booking
 ```
 
 ### 2. Docker Setup
